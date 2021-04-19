@@ -1,0 +1,1 @@
+To play the snakes and ladder game simply run the Snake_and_Ladder.py file
